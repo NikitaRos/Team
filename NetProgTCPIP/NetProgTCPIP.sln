@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetProgTCPIP", "NetProgTCPIP\NetProgTCPIP.csproj", "{78501705-C47D-4BDF-8248-28E7FED76A4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientWinForm", "ClientWinForm\ClientWinForm.csproj", "{E64ED604-8EB1-40AD-9F04-0127A8747FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78501705-C47D-4BDF-8248-28E7FED76A4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78501705-C47D-4BDF-8248-28E7FED76A4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78501705-C47D-4BDF-8248-28E7FED76A4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78501705-C47D-4BDF-8248-28E7FED76A4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64ED604-8EB1-40AD-9F04-0127A8747FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64ED604-8EB1-40AD-9F04-0127A8747FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64ED604-8EB1-40AD-9F04-0127A8747FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64ED604-8EB1-40AD-9F04-0127A8747FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {047459DA-8047-4C0E-A976-21CC251B073F}
+	EndGlobalSection
+EndGlobal

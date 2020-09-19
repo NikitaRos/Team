@@ -1,0 +1,7 @@
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\NetProgTCPIP\bin\Debug\NetProgTCPIP.exe.config
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\NetProgTCPIP\bin\Debug\NetProgTCPIP.exe
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\NetProgTCPIP\bin\Debug\NetProgTCPIP.pdb
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\NetProgTCPIP\obj\Debug\NetProgTCPIP.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\NetProgTCPIP\obj\Debug\NetProgTCPIP.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\NetProgTCPIP\obj\Debug\NetProgTCPIP.exe
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\NetProgTCPIP\obj\Debug\NetProgTCPIP.pdb
