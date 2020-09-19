@@ -1,0 +1,10 @@
+C:\Users\Взрослая академия\source\repos\Team\Multicast\Multicast\bin\Debug\Multicast.exe.config
+C:\Users\Взрослая академия\source\repos\Team\Multicast\Multicast\bin\Debug\Multicast.exe
+C:\Users\Взрослая академия\source\repos\Team\Multicast\Multicast\bin\Debug\Multicast.pdb
+C:\Users\Взрослая академия\source\repos\Team\Multicast\Multicast\obj\Debug\Multicast.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\Team\Multicast\Multicast\obj\Debug\Multicast.Form1.resources
+C:\Users\Взрослая академия\source\repos\Team\Multicast\Multicast\obj\Debug\Multicast.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\Team\Multicast\Multicast\obj\Debug\Multicast.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\Team\Multicast\Multicast\obj\Debug\Multicast.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\Team\Multicast\Multicast\obj\Debug\Multicast.exe
+C:\Users\Взрослая академия\source\repos\Team\Multicast\Multicast\obj\Debug\Multicast.pdb
