@@ -1,0 +1,10 @@
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\ClientWinForm\bin\Debug\ClientWinForm.exe.config
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\ClientWinForm\bin\Debug\ClientWinForm.exe
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\ClientWinForm\bin\Debug\ClientWinForm.pdb
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\ClientWinForm\obj\Debug\ClientWinForm.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\ClientWinForm\obj\Debug\ClientWinForm.Form1.resources
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\ClientWinForm\obj\Debug\ClientWinForm.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\ClientWinForm\obj\Debug\ClientWinForm.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\ClientWinForm\obj\Debug\ClientWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\ClientWinForm\obj\Debug\ClientWinForm.exe
+C:\Users\Взрослая академия\source\repos\Team\NetProgTCPIP\ClientWinForm\obj\Debug\ClientWinForm.pdb
