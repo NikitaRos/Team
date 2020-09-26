@@ -1,0 +1,10 @@
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\WindowsFormsLesson6\bin\Debug\WindowsFormsLesson6.exe.config
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\WindowsFormsLesson6\bin\Debug\WindowsFormsLesson6.exe
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\WindowsFormsLesson6\bin\Debug\WindowsFormsLesson6.pdb
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\WindowsFormsLesson6\obj\Debug\WindowsFormsLesson6.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\WindowsFormsLesson6\obj\Debug\WindowsFormsLesson6.Form1.resources
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\WindowsFormsLesson6\obj\Debug\WindowsFormsLesson6.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\WindowsFormsLesson6\obj\Debug\WindowsFormsLesson6.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\WindowsFormsLesson6\obj\Debug\WindowsFormsLesson6.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\WindowsFormsLesson6\obj\Debug\WindowsFormsLesson6.exe
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\WindowsFormsLesson6\obj\Debug\WindowsFormsLesson6.pdb
