@@ -1,0 +1,7 @@
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\ConsoleLesson6\bin\Debug\ConsoleLesson6.exe.config
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\ConsoleLesson6\bin\Debug\ConsoleLesson6.exe
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\ConsoleLesson6\bin\Debug\ConsoleLesson6.pdb
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\ConsoleLesson6\obj\Debug\ConsoleLesson6.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\ConsoleLesson6\obj\Debug\ConsoleLesson6.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\ConsoleLesson6\obj\Debug\ConsoleLesson6.exe
+C:\Users\Взрослая академия\source\repos\Team\ConsoleLesson6\ConsoleLesson6\obj\Debug\ConsoleLesson6.pdb
